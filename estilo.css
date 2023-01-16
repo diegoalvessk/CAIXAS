@@ -1,0 +1,19 @@
+#comeco{
+    text-align: center;
+    background-color: red;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.conteudo{
+    max-width: 90vw;
+    margin: 30px auto;
+}
+
+.card{
+    width: 20vw;
+    height: 150px;
+    background-color: red;
+    float: left;
+    margin: 1vw 1.25vw;
+}
